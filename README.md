@@ -8,7 +8,7 @@ Computer Engineer | Software Developer
 * 🌍  I'm based in Praia
 * 🖥️  See my portfolio at [My Porftolio](http://keltonfurtado.vercel.app)
 * ✉️  You can contact me at [keltonfurtado95@gmail.com](mailto:keltonfurtado95@gmail.com)
-* 🧠  I'm learning ReactNative and Flutter
+* 🧠  I'm learning Flutter and dominating React Native
 
 ### Skills
 
