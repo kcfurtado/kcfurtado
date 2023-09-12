@@ -5,8 +5,9 @@ Hi 👋 My name is Kelton Furtado
 Computer Engineer | Software Developer
 --------------------------------------
 
-* 🌍  I'm based in Praia
+* 🌍  I'm based in Lisbon, Portugal
 * 🖥️  See my portfolio at [My Porftolio](http://keltonfurtado.vercel.app)
+* 🖥️  See my LinkedIn Page at [My LinkedIn](https://pt.linkedin.com/in/kcfurtado228)
 * ✉️  You can contact me at [keltonfurtado95@gmail.com](mailto:keltonfurtado95@gmail.com)
 * 🧠  I'm learning Flutter and dominating React Native
 
